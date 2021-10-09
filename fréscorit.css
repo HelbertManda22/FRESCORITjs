@@ -1,0 +1,55 @@
+body {
+
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+    
+    color: #f1f1f1;
+	background: url(wolf1.png)  ;
+
+}
+
+main {
+
+	background: #071a26;
+	padding: 40px 40px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+.supressao  {
+	
+	text-align: center;
+
+}
+
+.block {
+
+	text-align: center;
+} 
+
+button {
+	
+	padding: 11px 24px 14px;
+	width:  95px;
+	color:burlywood;
+	border: 1px solid;
+	border-radius: 20px;
+	text-align: center;
+	background: #071a26;
+	user-select: none;
+	cursor: pointer;
+	transition: background 1s;
+
+}
+
+.button:hover {
+	background: #042d47;
+}
+
+button {
+	padding: 16px 23px 15px;
+    width: 110px;
+    margin: auto 67px;
+
+}
